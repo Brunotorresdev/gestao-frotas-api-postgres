@@ -60,3 +60,4 @@ logs/
 config.json
 configs_prd.txt
 logs/
+.vercel
