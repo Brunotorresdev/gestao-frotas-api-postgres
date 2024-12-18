@@ -628,3 +628,8 @@ notNull Violation: delivery.date cannot be null
 [2024-12-18 08:26:40] [32minfo[39m: Success in searching all trucks
 [2024-12-18 08:26:40] [32minfo[39m: Success in obtaining information
 [2024-12-18 08:27:18] [32minfo[39m: Sucessfull register truck
+[2024-12-18 10:15:48] [32minfo[39m: Success in searching all trucks
+[2024-12-18 10:16:11] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 11:03:45] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 11:08:21] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 11:11:56] [32minfo[39m: Success in searching all Drivers
