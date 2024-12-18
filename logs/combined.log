@@ -1,0 +1,630 @@
+[2024-12-14 23:46:04] [31merror[39m: Error when saving delivery data: relação "delivery" não existe
+[2024-12-14 23:58:21] [31merror[39m: Error when saving data: relação "driver" não existe
+[2024-12-14 23:58:32] [31merror[39m: Error when saving data: relação "driver" não existe
+[2024-12-14 23:59:54] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:01:19] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:01:22] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:01:56] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:02:06] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:02:54] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:03:02] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:03:16] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:04:29] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:04:57] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:06:15] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:06:17] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:07:00] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:09:24] [32minfo[39m: Sucessfull register truck
+[2024-12-15 00:09:26] [33mwarn[39m: Truck already registered.
+[2024-12-15 00:10:59] [31merror[39m: Error when saving delivery data: relação "delivery" não existe
+[2024-12-15 00:12:09] [33mwarn[39m: Truck already registered.
+[2024-12-15 00:12:30] [31merror[39m: Error when saving data: relação "driver" não existe
+[2024-12-15 00:12:51] [32minfo[39m: Sucessfull register driver
+[2024-12-15 00:12:59] [32minfo[39m: Successful delivery registration
+[2024-12-15 19:34:19] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:29:44] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:37:26] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:38:04] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:38:39] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:44:58] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:50:25] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:55:33] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:56:37] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:57:24] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:58:17] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:58:28] [32minfo[39m: Success in obtaining information
+[2024-12-15 20:59:44] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:05:55] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:07:36] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:08:16] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:08:50] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:08:53] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:20:35] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:21:09] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:21:10] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:21:58] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:24:31] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:24:32] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:32:57] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:33:35] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:41:09] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:41:58] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:43:20] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:43:40] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:44:12] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:44:58] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:48:12] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:50:35] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:52:34] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:52:38] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:52:45] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:52:49] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:56:15] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:56:30] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:56:32] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:56:33] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:56:34] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:56:36] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:56:37] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:57:25] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:57:48] [32minfo[39m: Success in obtaining information
+[2024-12-15 21:58:03] [32minfo[39m: Success in obtaining information
+[2024-12-15 22:04:25] [32minfo[39m: Success in obtaining information
+[2024-12-15 22:07:08] [32minfo[39m: Success in obtaining information
+[2024-12-15 22:17:15] [32minfo[39m: Success in searching all trucks
+[2024-12-15 22:17:15] [32minfo[39m: Success in obtaining information
+[2024-12-15 22:17:32] [32minfo[39m: Success in searching all trucks
+[2024-12-15 22:17:32] [32minfo[39m: Success in obtaining information
+[2024-12-15 22:18:57] [32minfo[39m: Success in searching all trucks
+[2024-12-15 22:18:57] [32minfo[39m: Success in obtaining information
+[2024-12-15 22:19:28] [32minfo[39m: Success in searching all trucks
+[2024-12-15 22:19:28] [32minfo[39m: Success in obtaining information
+[2024-12-15 22:22:17] [32minfo[39m: Success in searching all Drivers
+[2024-12-15 22:24:35] [32minfo[39m: Success in searching all trucks
+[2024-12-15 22:29:53] [32minfo[39m: Success in searching all Drivers
+[2024-12-15 22:29:53] [32minfo[39m: Success in searching all trucks
+[2024-12-15 22:29:53] [32minfo[39m: Success in obtaining information
+[2024-12-16 06:56:18] [32minfo[39m: Success in searching all Drivers
+[2024-12-16 06:56:18] [32minfo[39m: Success in searching all trucks
+[2024-12-16 06:56:18] [32minfo[39m: Success in obtaining information
+[2024-12-16 07:12:27] [32minfo[39m: Success in searching all trucks
+[2024-12-16 07:12:27] [32minfo[39m: Success in searching all Drivers
+[2024-12-16 07:12:27] [32minfo[39m: Success in obtaining information
+[2024-12-16 07:14:14] [33mwarn[39m: Type is required, Status is required
+[2024-12-16 07:14:52] [32minfo[39m: Success in searching all trucks
+[2024-12-16 07:14:52] [32minfo[39m: Success in searching all Drivers
+[2024-12-16 07:14:52] [32minfo[39m: Success in obtaining information
+[2024-12-16 07:15:06] [33mwarn[39m: Type is required, Status is required
+[2024-12-16 07:16:58] [31merror[39m: Error when saving delivery data: duplicar valor da chave viola a restrição de unicidade "delivery_pkey"
+[2024-12-16 07:18:21] [33mwarn[39m: Status is required
+[2024-12-16 07:19:01] [33mwarn[39m: Status is required
+[2024-12-16 07:19:10] [32minfo[39m: Success in searching all trucks
+[2024-12-16 07:19:10] [32minfo[39m: Success in searching all Drivers
+[2024-12-16 07:19:10] [32minfo[39m: Success in obtaining information
+[2024-12-16 07:20:09] [31merror[39m: Error when saving delivery data: duplicar valor da chave viola a restrição de unicidade "delivery_pkey"
+[2024-12-16 07:20:46] [31merror[39m: Error when saving delivery data: duplicar valor da chave viola a restrição de unicidade "delivery_pkey"
+[2024-12-16 07:21:20] [32minfo[39m: Successful delivery registration
+[2024-12-16 07:21:58] [32minfo[39m: Success in searching all trucks
+[2024-12-16 07:21:58] [32minfo[39m: Success in searching all Drivers
+[2024-12-16 07:21:58] [32minfo[39m: Success in obtaining information
+[2024-12-17 08:48:56] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+[2024-12-17 08:49:05] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+[2024-12-17 08:50:26] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (deliveries), but it does not match the alias(es) defined in your association (drivers).
+[2024-12-17 08:51:10] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (delivery), but it does not match the alias(es) defined in your association (drivers).
+[2024-12-17 09:00:26] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (delivery), but it does not match the alias(es) defined in your association (driver).
+[2024-12-17 09:01:42] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (delivery), but it does not match the alias(es) defined in your association (driver).
+[2024-12-17 12:19:04] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (delivery), but it does not match the alias(es) defined in your association (driver).
+[2024-12-17 12:21:05] [31merror[39m: Error in searching drivers: nome da tabela "driver" foi especificado mais de uma vez
+[2024-12-17 12:25:44] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 12:29:11] [31merror[39m: Error in seaching trucks: delivery is associated to truck using an alias. You've included an alias (deliveries), but it does not match the alias(es) defined in your association (truck).
+[2024-12-17 12:29:42] [32minfo[39m: Success in searching all trucks
+[2024-12-17 12:46:47] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 12:46:47] [32minfo[39m: Success in searching all trucks
+[2024-12-17 12:46:47] [32minfo[39m: Success in obtaining information
+[2024-12-17 12:49:44] [32minfo[39m: Successful delivery registration
+[2024-12-17 12:49:54] [32minfo[39m: Success in searching all trucks
+[2024-12-17 12:49:54] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 12:49:54] [32minfo[39m: Success in obtaining information
+[2024-12-17 18:35:41] [32minfo[39m: Success in searching all trucks
+[2024-12-17 18:36:16] [32minfo[39m: Sucessfull register driver
+[2024-12-17 18:36:22] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 18:42:25] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 18:42:28] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 18:42:36] [32minfo[39m: Success in searching all trucks
+[2024-12-17 18:50:10] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 18:50:10] [32minfo[39m: Success in searching all trucks
+[2024-12-17 18:50:10] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:01:19] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:01:19] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:01:19] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:06:38] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:06:38] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:06:38] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:10:14] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:10:14] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:10:14] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:16:19] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:16:19] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:16:19] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:27:03] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:27:03] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:27:03] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:29:28] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:29:28] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:29:28] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:30:49] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:30:49] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:30:49] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:31:15] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:31:15] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:31:15] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:33:06] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:33:06] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:33:06] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:35:14] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:35:14] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:35:14] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:35:19] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:35:19] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:35:19] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:35:21] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:35:21] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:35:21] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:36:08] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:36:08] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:36:08] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:38:08] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:38:08] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:38:08] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:51:38] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:51:38] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:51:38] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:51:49] [32minfo[39m: Delivery with ID 5 was successfully deleted.
+[2024-12-17 19:51:55] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:51:55] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:51:55] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:52:38] [32minfo[39m: Delivery with ID 6 was successfully deleted.
+[2024-12-17 19:52:49] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:52:49] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:52:49] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:53:00] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:53:00] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:53:00] [32minfo[39m: Success in obtaining information
+[2024-12-17 19:59:55] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 19:59:55] [32minfo[39m: Success in searching all trucks
+[2024-12-17 19:59:55] [32minfo[39m: Success in obtaining information
+[2024-12-17 20:06:14] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 20:06:14] [32minfo[39m: Success in searching all trucks
+[2024-12-17 20:34:46] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 20:34:46] [32minfo[39m: Success in obtaining information
+[2024-12-17 20:34:46] [32minfo[39m: Success in searching all trucks
+[2024-12-17 20:38:55] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 20:38:55] [32minfo[39m: Success in searching all trucks
+[2024-12-17 20:38:55] [32minfo[39m: Success in obtaining information
+[2024-12-17 20:45:32] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 20:45:32] [32minfo[39m: Success in searching all trucks
+[2024-12-17 20:52:26] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 20:52:26] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:07:02] [33mwarn[39m: Driver already made two deliveries this month.
+[2024-12-17 21:07:10] [32minfo[39m: Successful delivery registration
+[2024-12-17 21:08:56] [32minfo[39m: Delivery updated registered
+[2024-12-17 21:10:31] [32minfo[39m: Delivery updated registered
+[2024-12-17 21:15:18] [33mwarn[39m: Truck already has an associated ongoing delivery.
+[2024-12-17 21:15:26] [33mwarn[39m: Truck already has an associated ongoing delivery.
+[2024-12-17 21:15:33] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:15:51] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:16:39] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:18:36] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:18:58] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:20:54] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:22:06] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:22:06] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:22:06] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:23:47] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:23:47] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:23:47] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:24:35] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:24:35] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:24:35] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:27:13] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:32:25] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:33:36] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:34:40] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:35:57] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:35:57] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:35:57] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:38:19] [32minfo[39m: Successful delivery registration
+[2024-12-17 21:39:39] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:39:39] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:39:39] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:41:57] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:41:57] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:41:57] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:47:02] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:47:02] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:47:33] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:49:53] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:49:53] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:49:53] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:50:40] [32minfo[39m: Successful delivery registration
+[2024-12-17 21:51:04] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:51:04] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:51:04] [32minfo[39m: Success in obtaining information
+[2024-12-17 21:55:06] [32minfo[39m: Successful delivery registration
+[2024-12-17 21:57:14] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 21:57:14] [32minfo[39m: Success in searching all trucks
+[2024-12-17 21:57:14] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:01:49] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:01:49] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:01:49] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:03:17] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:03:17] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:03:17] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:03:22] [32minfo[39m: Delivery with ID 18 was successfully deleted.
+[2024-12-17 22:03:28] [32minfo[39m: Delivery with ID 19 was successfully deleted.
+[2024-12-17 22:03:35] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:03:35] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:03:35] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:04:05] [32minfo[39m: Successful delivery registration
+[2024-12-17 22:04:47] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:04:47] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:04:47] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:05:09] [32minfo[39m: Successful delivery registration
+[2024-12-17 22:11:05] [32minfo[39m: Successful delivery registration
+[2024-12-17 22:11:48] [33mwarn[39m: Truck already has an associated ongoing delivery.
+[2024-12-17 22:16:18] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:16:18] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:16:18] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:17:17] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:17:17] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:17:17] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:18:14] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:18:14] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:18:14] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:19:36] [32minfo[39m: Delivery with ID 22 was successfully deleted.
+[2024-12-17 22:19:43] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:19:43] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:19:43] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:19:54] [32minfo[39m: Delivery with ID 23 was successfully deleted.
+[2024-12-17 22:19:57] [32minfo[39m: Delivery with ID 21 was successfully deleted.
+[2024-12-17 22:20:00] [32minfo[39m: Delivery with ID 1 was successfully deleted.
+[2024-12-17 22:20:03] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:20:03] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:20:03] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:22:18] [32minfo[39m: Delivery updated registered
+[2024-12-17 22:29:18] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:29:18] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:29:18] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:30:19] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:30:19] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:30:19] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:32:31] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:32:31] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:32:31] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:36:31] [32minfo[39m: Delivery updated registered
+[2024-12-17 22:36:36] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:36:36] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:36:36] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:36:40] [32minfo[39m: Delivery updated registered
+[2024-12-17 22:36:43] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:36:43] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:36:43] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:45:26] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:45:26] [32minfo[39m: Success in obtaining information
+[2024-12-17 22:45:26] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:45:26] [32minfo[39m: Success in searching all trucks
+[2024-12-17 22:45:26] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 22:45:26] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:05:25] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:05:29] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:05:29] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:05:29] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:07:13] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:07:13] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:08:37] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:08:37] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:08:37] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:10:41] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:10:46] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:10:46] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:10:47] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:11:00] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:11:02] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:11:02] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:11:02] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:11:16] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:11:46] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:11:46] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:11:46] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:15:23] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:18:50] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:18:50] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:18:50] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:21:01] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:21:01] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:21:01] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:21:24] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:21:34] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:21:34] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:21:34] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:23:50] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:23:50] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:23:50] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:23:58] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:24:31] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:24:31] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:24:31] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:25:20] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:28:40] [32minfo[39m: Delivery updated registered
+[2024-12-17 23:28:51] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:28:51] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:28:51] [32minfo[39m: Success in obtaining information
+[2024-12-17 23:34:31] [32minfo[39m: Success in searching all Drivers
+[2024-12-17 23:34:31] [32minfo[39m: Success in searching all trucks
+[2024-12-17 23:35:22] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:17:23] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:17:23] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:17:23] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:18:56] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:18:56] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:18:56] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:23:15] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:23:15] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:23:15] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:26:11] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:26:11] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:26:11] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:27:27] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:27:27] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:27:27] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:28:54] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:28:54] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:28:54] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:29:26] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:29:26] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:29:26] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:29:52] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:29:52] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:29:52] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:33:02] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:33:02] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:33:02] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:33:44] [32minfo[39m: Delivery updated registered
+[2024-12-18 00:33:48] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:33:48] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:33:48] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:36:38] [32minfo[39m: Delivery updated registered
+[2024-12-18 00:36:41] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:36:41] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:36:41] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:43:03] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:43:03] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:43:03] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:43:22] [32minfo[39m: Successful delivery registration
+[2024-12-18 00:51:20] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:51:20] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:51:20] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:51:53] [32minfo[39m: Successful delivery registration
+[2024-12-18 00:52:54] [33mwarn[39m: Truck already has an associated ongoing delivery.
+[2024-12-18 00:54:00] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:54:00] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:54:00] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:54:26] [32minfo[39m: Successful delivery registration
+[2024-12-18 00:54:26] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:54:26] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:54:26] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:54:34] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:54:34] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:54:34] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:58:36] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:58:36] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:58:36] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:59:28] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:59:28] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:59:28] [32minfo[39m: Success in obtaining information
+[2024-12-18 00:59:54] [32minfo[39m: Delivery with ID 2 was successfully deleted.
+[2024-12-18 00:59:58] [32minfo[39m: Success in searching all trucks
+[2024-12-18 00:59:58] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 00:59:58] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:00:02] [32minfo[39m: Delivery with ID 24 was successfully deleted.
+[2024-12-18 01:00:07] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:00:07] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:00:07] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:00:33] [32minfo[39m: Delivery with ID 25 was successfully deleted.
+[2024-12-18 01:01:00] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:01:00] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:01:00] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:01:04] [32minfo[39m: Delivery with ID 7 was successfully deleted.
+[2024-12-18 01:02:52] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:02:52] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:02:52] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:02:57] [32minfo[39m: Delivery with ID 26 was successfully deleted.
+[2024-12-18 01:03:16] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:03:16] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:03:16] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:03:41] [32minfo[39m: Successful delivery registration
+[2024-12-18 01:03:41] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:03:41] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:03:41] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:06:07] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:06:07] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:06:07] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:06:56] [32minfo[39m: Delivery updated registered
+[2024-12-18 01:07:01] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:07:01] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:07:01] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:07:11] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:07:11] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:07:11] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:08:20] [32minfo[39m: Delivery updated registered
+[2024-12-18 01:08:20] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:08:20] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:08:20] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:08:28] [31merror[39m: Error when saving data: notNull Violation: delivery.destination cannot be null,
+notNull Violation: delivery.type cannot be null,
+notNull Violation: delivery.value cannot be null,
+notNull Violation: delivery.driverId cannot be null,
+notNull Violation: delivery.date cannot be null
+[2024-12-18 01:08:38] [31merror[39m: Error when saving data: notNull Violation: delivery.destination cannot be null,
+notNull Violation: delivery.type cannot be null,
+notNull Violation: delivery.value cannot be null,
+notNull Violation: delivery.driverId cannot be null,
+notNull Violation: delivery.date cannot be null
+[2024-12-18 01:09:56] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:09:56] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:09:56] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:09:57] [31merror[39m: Error when saving data: notNull Violation: delivery.destination cannot be null,
+notNull Violation: delivery.type cannot be null,
+notNull Violation: delivery.value cannot be null,
+notNull Violation: delivery.driverId cannot be null,
+notNull Violation: delivery.date cannot be null
+[2024-12-18 01:12:23] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:12:23] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:12:23] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:12:25] [31merror[39m: Error when saving data: notNull Violation: delivery.destination cannot be null,
+notNull Violation: delivery.type cannot be null,
+notNull Violation: delivery.value cannot be null,
+notNull Violation: delivery.driverId cannot be null,
+notNull Violation: delivery.date cannot be null
+[2024-12-18 01:15:10] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:15:10] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:15:10] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:15:19] [32minfo[39m: Delivery updated successfully
+[2024-12-18 01:15:19] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:15:19] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:15:19] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:15:37] [32minfo[39m: Delivery updated successfully
+[2024-12-18 01:15:37] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:15:37] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:15:37] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:15:47] [32minfo[39m: Delivery updated successfully
+[2024-12-18 01:15:47] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:15:47] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:15:47] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:16:51] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:16:51] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:16:51] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:16:54] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:16:54] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:16:54] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:17:12] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:17:12] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:17:12] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:17:14] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:17:14] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:17:14] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:18:35] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:18:35] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:18:35] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:23:43] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:27:22] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:27:22] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:27:22] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:35:35] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:35:35] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:35:35] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:35:52] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:35:52] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:35:52] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:36:03] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:36:03] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:36:03] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:39:36] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:39:36] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:39:36] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:40:23] [32minfo[39m: Delivery updated successfully
+[2024-12-18 01:40:23] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:40:23] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:40:23] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:45:33] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:45:33] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:47:14] [32minfo[39m: Successful delivery registration
+[2024-12-18 01:47:14] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:47:14] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:47:14] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:47:21] [32minfo[39m: Delivery with ID 28 was successfully deleted.
+[2024-12-18 01:47:21] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:47:21] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:47:21] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:48:11] [32minfo[39m: Delivery updated successfully
+[2024-12-18 01:48:11] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:48:11] [32minfo[39m: Success in obtaining information
+[2024-12-18 01:48:11] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:48:14] [32minfo[39m: Delivery updated successfully
+[2024-12-18 01:48:15] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 01:48:15] [32minfo[39m: Success in searching all trucks
+[2024-12-18 01:48:15] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:37:15] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:37:15] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:37:15] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:37:15] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:37:15] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:37:15] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:37:30] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:37:30] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:37:31] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:37:31] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:37:31] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:37:31] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:37:39] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:37:39] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:37:39] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:38:28] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:38:28] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:38:29] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:38:29] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:38:29] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:38:29] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:38:34] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:38:34] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:38:34] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:39:08] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:39:08] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:39:08] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:39:37] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:39:37] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:39:37] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:40:56] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:40:56] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:40:56] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:45:10] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:45:10] [32minfo[39m: Success in obtaining information
+[2024-12-18 07:45:10] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:46:50] [32minfo[39m: Sucessfull register truck
+[2024-12-18 07:46:50] [32minfo[39m: Success in searching all trucks
+[2024-12-18 07:46:50] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 07:46:50] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:03:12] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 08:03:12] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:03:12] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:03:32] [32minfo[39m: Sucessfull register driver
+[2024-12-18 08:03:32] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 08:03:32] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:03:32] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:24:17] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:24:17] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 08:24:17] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:24:18] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:24:18] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 08:24:18] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:24:36] [32minfo[39m: Sucessfull register driver
+[2024-12-18 08:24:45] [33mwarn[39m: Driver already registered.
+[2024-12-18 08:24:59] [32minfo[39m: Sucessfull register driver
+[2024-12-18 08:25:13] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 08:25:13] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:25:13] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:25:14] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 08:25:14] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:25:14] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:25:28] [32minfo[39m: Sucessfull register driver
+[2024-12-18 08:26:25] [32minfo[39m: Sucessfull register truck
+[2024-12-18 08:26:25] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:26:25] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 08:26:26] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:26:37] [32minfo[39m: Sucessfull register driver
+[2024-12-18 08:26:38] [32minfo[39m: Success in searching all Drivers
+[2024-12-18 08:26:39] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:26:39] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:26:40] [32minfo[39m: Success in searching all trucks
+[2024-12-18 08:26:40] [32minfo[39m: Success in obtaining information
+[2024-12-18 08:27:18] [32minfo[39m: Sucessfull register truck

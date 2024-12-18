@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências do Node.js
+node_modules/
+
+# Diretórios de build/produção
+dist/
+build/
+
+# Diretórios de cache
+.cache/
+.next/
+out/
+
+# Test coverage
+coverage/
+
+# Configurações locais do sistema operacional/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Configurações de ferramentas
+/.husky/_/
+/.pnpm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Configurações do editor
+*.sublime-workspace
+*.code-workspace
+
+# Artefatos gerados
+*.tgz
+*.zip
+*.gzip
+
+# Diretórios de logs gerados pela aplicação
+logs/
+*.log
+
+# Arquivos relacionados ao Electron
+config.json
+configs_prd.txt
+logs/

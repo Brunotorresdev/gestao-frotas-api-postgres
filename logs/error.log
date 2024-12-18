@@ -1,0 +1,60 @@
+[2024-12-14 23:46:04] [31merror[39m: Error when saving delivery data: relação "delivery" não existe
+[2024-12-14 23:58:21] [31merror[39m: Error when saving data: relação "driver" não existe
+[2024-12-14 23:58:32] [31merror[39m: Error when saving data: relação "driver" não existe
+[2024-12-14 23:59:54] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:01:19] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:01:22] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:01:56] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:02:06] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:02:54] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:03:02] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:03:16] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:04:29] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:04:57] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:06:15] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:06:17] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:07:00] [31merror[39m: Error when saving data: relação "truck" não existe
+[2024-12-15 00:10:59] [31merror[39m: Error when saving delivery data: relação "delivery" não existe
+[2024-12-15 00:12:30] [31merror[39m: Error when saving data: relação "driver" não existe
+[2024-12-16 07:16:58] [31merror[39m: Error when saving delivery data: duplicar valor da chave viola a restrição de unicidade "delivery_pkey"
+[2024-12-16 07:20:09] [31merror[39m: Error when saving delivery data: duplicar valor da chave viola a restrição de unicidade "delivery_pkey"
+[2024-12-16 07:20:46] [31merror[39m: Error when saving delivery data: duplicar valor da chave viola a restrição de unicidade "delivery_pkey"
+[2024-12-17 08:48:56] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+[2024-12-17 08:49:05] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You must use the 'as' keyword to specify the alias within your include statement.
+[2024-12-17 08:50:26] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (deliveries), but it does not match the alias(es) defined in your association (drivers).
+[2024-12-17 08:51:10] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (delivery), but it does not match the alias(es) defined in your association (drivers).
+[2024-12-17 09:00:26] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (delivery), but it does not match the alias(es) defined in your association (driver).
+[2024-12-17 09:01:42] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (delivery), but it does not match the alias(es) defined in your association (driver).
+[2024-12-17 12:19:04] [31merror[39m: Error in seaching drivers: delivery is associated to driver using an alias. You've included an alias (delivery), but it does not match the alias(es) defined in your association (driver).
+[2024-12-17 12:21:05] [31merror[39m: Error in searching drivers: nome da tabela "driver" foi especificado mais de uma vez
+[2024-12-17 12:29:11] [31merror[39m: Error in seaching trucks: delivery is associated to truck using an alias. You've included an alias (deliveries), but it does not match the alias(es) defined in your association (truck).
+[2024-12-17 21:15:33] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:15:51] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:16:39] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:18:36] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:18:58] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:20:54] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:27:13] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:32:25] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:33:36] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-17 21:34:40] [31merror[39m: Error when saving delivery data: inserção ou atualização em tabela "delivery" viola restrição de chave estrangeira "delivery_driverId_fkey"
+[2024-12-18 01:08:28] [31merror[39m: Error when saving data: notNull Violation: delivery.destination cannot be null,
+notNull Violation: delivery.type cannot be null,
+notNull Violation: delivery.value cannot be null,
+notNull Violation: delivery.driverId cannot be null,
+notNull Violation: delivery.date cannot be null
+[2024-12-18 01:08:38] [31merror[39m: Error when saving data: notNull Violation: delivery.destination cannot be null,
+notNull Violation: delivery.type cannot be null,
+notNull Violation: delivery.value cannot be null,
+notNull Violation: delivery.driverId cannot be null,
+notNull Violation: delivery.date cannot be null
+[2024-12-18 01:09:57] [31merror[39m: Error when saving data: notNull Violation: delivery.destination cannot be null,
+notNull Violation: delivery.type cannot be null,
+notNull Violation: delivery.value cannot be null,
+notNull Violation: delivery.driverId cannot be null,
+notNull Violation: delivery.date cannot be null
+[2024-12-18 01:12:25] [31merror[39m: Error when saving data: notNull Violation: delivery.destination cannot be null,
+notNull Violation: delivery.type cannot be null,
+notNull Violation: delivery.value cannot be null,
+notNull Violation: delivery.driverId cannot be null,
+notNull Violation: delivery.date cannot be null
